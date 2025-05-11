@@ -43,7 +43,7 @@ I'm a **Full Stack Web Developer** with a passion for building modern and scalab
 
 
 
-###I am currently learning :
+##I am currently learning :
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
@@ -54,7 +54,7 @@ I'm a **Full Stack Web Developer** with a passion for building modern and scalab
 
 
 
-### Wish list i want to learn
+## Wish list i want to learn
 
 ![Pytest](https://img.shields.io/badge/-Pytest-3776AB?style=flat&logo=pytest)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)
