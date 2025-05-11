@@ -5,21 +5,15 @@ I'm a **Full Stack Web Developer** with a passion for building modern and scalab
 
 ## 🚀 About Me
 
-
 - 🌍 I'm live in cairo
 - 💼 Tech Stack:
   - **Frontend:** React.js, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap
   - **Backend:** Python, Flask, SQLite, SQL
  
   
-  - **Currently Learning:** Django, Next.js, PostgreSQL, REST APIs, CI/CD, Deployment, AWS
-  - **Testing:** Pytest (Backend), Jest (Frontend)
-  - 
-- 🧠 and iam good knowledge in **Problem Solving**, **Algorithms**, **Data Structures**, and **OOP**
-- 
-- 🧪 Interested in expanding and learn  AI/ML skills with: NumPy, Pandas, Scikit-learn, LightGBM, and Prophet (for time-series forecasting)
-- ✨ I’m always exploring new tools and technologies to stay sharp and build better software!
+  - **in progress:** Django, Next.js, PostgreSQL, REST APIs, CI/CD, Deployment, AWS
 
+- 🧠 and iam have good knowledge in **Problem Solving**, **Algorithms**, **Data Structures**, and **OOP**
 
 
 
