@@ -43,12 +43,16 @@ I'm a **Full Stack Web Developer** with a passion for building modern and scalab
 
 
 
-##I am currently learning :
 
+## I am currently learning :
+-
+### Frontend :
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+
+### Backend
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
 ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 
 
 
@@ -56,9 +60,11 @@ I'm a **Full Stack Web Developer** with a passion for building modern and scalab
 
 ## Wish list i want to learn
 
+### testing :
 ![Pytest](https://img.shields.io/badge/-Pytest-3776AB?style=flat&logo=pytest)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)
 :: 
+### ai tools
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
