@@ -11,7 +11,7 @@ I'm a **Full Stack Web Developer** with a passion for building modern and scalab
   - **Frontend:** React.js, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap
   - **Backend:** Python, Flask, SQLite, SQL
  
-  - 
+  
   - **Currently Learning:** Django, Next.js, PostgreSQL, REST APIs, CI/CD, Deployment, AWS
   - **Testing:** Pytest (Backend), Jest (Frontend)
   - 
@@ -73,8 +73,8 @@ I'm a **Full Stack Web Developer** with a passion for building modern and scalab
 - 🔗 [LinkedIn](https://www.linkedin.com/in/YourLinkedInHere)
 - 🌐 [Portfolio Website](https://theportfolio.pro)
 - 📞 WhatsApp: +20-01559893354
-![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) ahmedpro98@gmail.com
-![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) ahmed@theportfolio.pro
+- mail : ahmedpro98@gmail.com
+- mail : ahmed@theportfolio.pro
 
 ---
 
