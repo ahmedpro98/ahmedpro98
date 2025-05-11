@@ -33,28 +33,23 @@ I'm a **Full Stack Web Developer** with a passion for building modern and scalab
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
+### I am currently learning
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+
+ --------------------------------------------------------------------------------------
 
 ### Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
 
+### I am currently learning
 
-
-
-
-
-## I am currently learning :
--
-### Frontend :
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-
-### Backend
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
 ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat)
 
-
+ --------------------------------------------------------------------------------------
 
 
 
