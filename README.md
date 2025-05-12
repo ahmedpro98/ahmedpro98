@@ -1,14 +1,13 @@
 # Hi there, I'm Ahmed Mohamed 👋
 
-I'm a **Full Stack Web Developer** with a passion for building modern and scalable web applications! I enjoy learning new technologies and solving complex problems with elegant solutions. 💡
-
-And This is my new GitHub account!  
+ This is my new GitHub account!  
 
 Not my first time here — I already lost two accounts before 😅  
 
 Now this is account number **three** — and I'm starting fresh and strong, inshallah! 💪
 
 Here you will find my web development work and new cool projects coming soon!
+
 
 
 ## 🚀 About Me
