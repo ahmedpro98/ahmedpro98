@@ -2,6 +2,14 @@
 
 I'm a **Full Stack Web Developer** with a passion for building modern and scalable web applications! I enjoy learning new technologies and solving complex problems with elegant solutions. 💡
 
+And This is my new GitHub account!  
+
+Not my first time here — I already lost two accounts before 😅  
+
+Now this is account number **three** — and I'm starting fresh and strong, inshallah! 💪
+
+Here you will find my web development work and new cool projects coming soon!
+
 
 ## 🚀 About Me
 
@@ -70,8 +78,4 @@ I'm a **Full Stack Web Developer** with a passion for building modern and scalab
 - 📞 WhatsApp: +20-01559893354
 - mail : ahmedpro98@gmail.com
 - mail : ahmed@theportfolio.pro
-
----
-
-Thanks for stopping by! Let's connect,and build amazing things together! 🚀
 
