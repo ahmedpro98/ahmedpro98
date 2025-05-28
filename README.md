@@ -2,7 +2,7 @@
 
  This is my new GitHub account!  
 
-Not my first time here — I already lost two accounts before 😅  
+Not my first time here — I already have two accounts before 😅  
 
 Now this is account number **three** — and I'm starting fresh and strong, inshallah! 💪
 
@@ -74,6 +74,7 @@ Here you will find my web development work and new cool projects coming soon!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/YourLinkedInHere)
 - 🌐 [Portfolio Website](https://theportfolio.pro)
+- git-mail : https://github.com/ahmed7sead
 - 📞 WhatsApp: +20-01559893354
 - mail : ahmedpro98@gmail.com
 - mail : ahmed@theportfolio.pro
